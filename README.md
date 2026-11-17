@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 👥 Contributors
 
+- **Prakhar Singh** - [LinkedIn](https://www.linkedin.com/in/prakhar-singh-1b9614185/) | [GitHub](https://github.com/prakharsingh1923/Hand-Sign-Recognition-System-MP1-)
 - **Parth Armarkar** - [LinkedIn](http://www.linkedin.com/in/parth-armarkar-052551289) | [GitHub](https://github.com/Parth-GECA-IT)
 - **Karan Gawande** - [LinkedIn](linkedin.com/in/karan-gawande-64aa3b231) | [GitHub](https://github.com)
 - **Dhruv Punekar** - [LinkedIn](https://www.linkedin.com/in/dhruv-punekar-a57299277/) | [GitHub](https://github.com)
-- **Prakhar Singh** - [LinkedIn](https://www.linkedin.com/in/prakhar-singh-1b9614185/) | [GitHub](https://github.com/prakharsingh1923)
